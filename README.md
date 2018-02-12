@@ -13,4 +13,4 @@ This component displays an array of react elements in a carousel with 3D animati
 | elements | An array or React elements to display in the carousel |
 | backgroundColor | The background color of the carousel |
 
-![Demo](https://media.giphy.com/media/xT1R9SCd5OAJJ9Shy0/giphy.gif_)
+![Demo](https://media.giphy.com/media/xT1R9SCd5OAJJ9Shy0/giphy.gif)
