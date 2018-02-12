@@ -2,9 +2,9 @@ This component displays an array of react elements in a carousel with 3D animati
 
 ## Installation
 
-``npm i -S react-3d-carousel``
+``npm i -S react-carousel-3d``
 
-``import Carousel3D from 'react-3d-carousel'``
+``import Carousel3D from 'react-carousel-3d'``
 
 ## Props
 

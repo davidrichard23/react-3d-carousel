@@ -1,5 +1,5 @@
 {
-  "name": "react-3d-carousel",
+  "name": "react-carousel-3d",
   "version": "0.1.0",
   "description": "A React component to display elements in a carousel with 3D animations",
   "main": "build/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidrichard23/react-3d-carousel.git"
+    "url": "git+https://github.com/davidrichard23/react-carousel-3d.git"
   },
   "keywords": [
     "react",
@@ -18,9 +18,9 @@
   "author": "David Richard <david@davidrichard.xyz> (http://davidrichard.xyz)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davidrichard23/react-3d-carousel/issues"
+    "url": "https://github.com/davidrichard23/react-carousel-3d/issues"
   },
-  "homepage": "https://github.com/davidrichard23/react-3d-carousel#readme",
+  "homepage": "https://github.com/davidrichard23/react-carousel-3d#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
